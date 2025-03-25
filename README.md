@@ -33,10 +33,12 @@ Reconciliation is often a complex and time-consuming process, requiring business
 Explain the key features and functionalities of your project.
 
 ## 🛠️ How We Built It
-Briefly outline the technologies, frameworks, and tools used in development.
+Python 3 
+Python Libraries: Pandas,sklearn,FastAPI,yagmail
+
 
 ## 🚧 Challenges We Faced
-Describe the major technical or non-technical challenges your team encountered.
+Environment setup 
 
 ## 🏃 How to Run
 1. Clone the repository  
