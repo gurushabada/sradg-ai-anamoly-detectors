@@ -31,6 +31,7 @@ Reconciliation is often a complex and time-consuming process, requiring business
 ## ⚙️ What It Does
 
 Explain the key features and functionalities of your project.
+Identifies Anomalies 
 
 ## 🛠️ How We Built It
 Python 3 
@@ -55,10 +56,7 @@ Environment setup
    ```
 
 ## 🏗️ Tech Stack
-- 🔹 Frontend: React / Vue / Angular
-- 🔹 Backend: Node.js / FastAPI / Django
-- 🔹 Database: PostgreSQL / Firebase
-- 🔹 Other: OpenAI API / Twilio / Stripe
+- Python
 
 ## 👥 Team
 - **Your Name** - [GitHub](#) | [LinkedIn](#)
