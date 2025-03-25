@@ -1,4 +1,4 @@
-# 🚀 Project Name
+# 🚀 Smarter Reconciliation and Anomaly Detection using Gen AI 
 
 ## 📌 Table of Contents
 - [Introduction](#introduction)
@@ -14,7 +14,8 @@
 ---
 
 ## 🎯 Introduction
-A brief overview of your project and its purpose. Mention which problem statement are your attempting to solve. Keep it concise and engaging.
+
+Our system processes financial data files to detect anomalies using an Isolation Forest model trained on historical data. It identifies discrepancies, offers actionable insights, and integrates seamlessly with tools like Jira and email to notify relevant business teams. Clean and effective! 😊
 
 ## 🎥 Demo
 🔗 [Live Demo](#) (if applicable)  
@@ -24,16 +25,21 @@ A brief overview of your project and its purpose. Mention which problem statemen
 ![Screenshot 1](link-to-image)
 
 ## 💡 Inspiration
-What inspired you to create this project? Describe the problem you're solving.
+
+Reconciliation is often a complex and time-consuming process, requiring business users to handle extensive manual tasks that are not only labor-intensive but also highly prone to errors. This inefficiency can lead to delays in identifying discrepancies, impacting decision-making and overall productivity. Automating reconciliation streamlines the workflow, reduces the chances of human error, and saves significant time and effort for the business team. By leveraging advanced technology, automation ensures accuracy, efficiency, and a more reliable reconciliation process, empowering teams to focus on strategic initiatives rather than repetitive manual corrections.
 
 ## ⚙️ What It Does
+
 Explain the key features and functionalities of your project.
+Identifies Anomalies 
 
 ## 🛠️ How We Built It
-Briefly outline the technologies, frameworks, and tools used in development.
+Python 3 
+Python Libraries: Pandas,sklearn,FastAPI,yagmail
+
 
 ## 🚧 Challenges We Faced
-Describe the major technical or non-technical challenges your team encountered.
+Environment setup 
 
 ## 🏃 How to Run
 1. Clone the repository  
@@ -50,10 +56,7 @@ Describe the major technical or non-technical challenges your team encountered.
    ```
 
 ## 🏗️ Tech Stack
-- 🔹 Frontend: React / Vue / Angular
-- 🔹 Backend: Node.js / FastAPI / Django
-- 🔹 Database: PostgreSQL / Firebase
-- 🔹 Other: OpenAI API / Twilio / Stripe
+- Python
 
 ## 👥 Team
 - **Your Name** - [GitHub](#) | [LinkedIn](#)
